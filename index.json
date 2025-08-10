@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": "0.1.0",
+  "updatedAt": "2025-08-10T00:00:00Z",
+  "sets": [
+    { "id": "BASE", "name": "Base", "version": "1.0.0", "cardCount": 3, "sha256": "" }
+  ]
+}
