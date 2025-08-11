@@ -3,7 +3,6 @@
   "setId": "BASE",
   "name": "Energía Agua",
   "supertype": "Energy",
-  "rarity": "Common",
   "provides": "Water",
   "isSpecial": false,
   "imageUrl": "/media/cards/eng_001.png",
