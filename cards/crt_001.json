@@ -2,8 +2,8 @@
   "id": "crt_001",
   "setId": "BASE",
   "name": "Streamer Rookie",
-  "supertype": "Creature",
-  "rarity": "Common",
+  "supertype": "Player",              // antes: "Creature"
+  "rarity": "Common",                 // válido para el PackOpener
   "stage": "Basic",
   "hp": 60,
   "weakness": "Lightning",
