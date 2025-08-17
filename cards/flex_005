@@ -1,0 +1,38 @@
+{
+  "id": "flex_005",
+  "setId": "base_01",
+  "name": "Flex",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/flex_005.png",
+
+  "supertype": "Player",
+  "type": "Showman",
+
+  "hp": 90,
+  "stage": "Basic",
+  "number": 5,
+
+  "weaknesses": [
+    { "type": "Gamer", "multiplier": 2.0 }
+  ],
+  "resistances": [],
+
+  "retreatCost": [
+    { "type": "Colorless", "amount": 1 }
+  ],
+
+  "attacks": [
+    {
+      "name": "Puño",
+      "cost": [ { "type": "Showman", "amount": 1 } ],
+      "damage": 20
+    }
+  ],
+
+  "abilities": [
+    {
+      "name": "Focus",
+      "effect": "Mientras Flex esté en juego, la primera carta aleatoria que se saque siempre será roja."
+    }
+  ]
+}
