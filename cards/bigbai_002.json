@@ -10,6 +10,7 @@
 
   "hp": 90,
   "stage": "Stage 1",
+  "evolvesFrom": "bigbai_001",
   "number": 2,
 
   "weaknesses": [
