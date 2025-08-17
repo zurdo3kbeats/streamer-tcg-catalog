@@ -1,0 +1,40 @@
+{
+  "id": "elmarius_015",
+  "setId": "base_01",
+  "name": "ElMarius",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/elmarius_015.png",
+
+  "supertype": "Player",
+  "type": "Gamer",
+
+  "hp": 110,
+  "stage": "Basic",
+  "number": 15,
+
+  "weaknesses": [
+    { "type": "Deportista", "multiplier": 2.0 }
+  ],
+  "resistances": [],
+
+  "retreatCost": [
+    { "type": "Colorless", "amount": 1 }
+  ],
+
+  "attacks": [
+    {
+      "name": "Puño",
+      "cost": [ { "type": "Gamer", "amount": 1 } ],
+      "damage": 30,
+      "effect": "Después de usar este ataque, descarta 1 energía unida a esta carta."
+    },
+    {
+      "name": "Puño Wey",
+      "cost": [ { "type": "Gamer", "amount": 2 } ],
+      "damage": 60,
+      "effect": "Después de usar este ataque, descarta 2 energías unidas a esta carta."
+    }
+  ],
+
+  "abilities": []
+}
