@@ -1,0 +1,34 @@
+{
+  "id": "fernanflop_007",
+  "setId": "base_01",
+  "name": "Fernanflop",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/fernanflop_007.png",
+
+  "supertype": "Player",
+  "type": "Showman",
+
+  "hp": 130,
+  "stage": "Stage 1",
+  "evolvesFrom": "fernanflop_006",
+  "number": 7,
+
+  "weaknesses": [
+    { "type": "Gamer", "multiplier": 2.0 }
+  ],
+  "resistances": [],
+
+  "retreatCost": [
+    { "type": "Colorless", "amount": 2 }
+  ],
+
+  "attacks": [
+    {
+      "name": "Pastillas Mágicas",
+      "cost": [ { "type": "Showman", "amount": 3 } ],
+      "damage": 90
+    }
+  ],
+
+  "abilities": []
+}
