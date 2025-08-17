@@ -2,6 +2,10 @@
   "id": "base_01",
   "name": "Base",
   "cards": [
-    "bigbai_001"
+    "bigbai_001",
+    "bigbai_002",
+    "bigbai_003",
+    "bigbai_047",
+    "bigbai_051"
   ]
 }
