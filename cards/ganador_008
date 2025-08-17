@@ -1,0 +1,37 @@
+{
+  "id": "ganador_008",
+  "setId": "base_01",
+  "name": "Ganador",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/ganador_008.png",
+
+  "supertype": "Player",
+  "type": "Showman",
+
+  "hp": 90,
+  "stage": "Basic",
+  "number": 8,
+
+  "weaknesses": [
+    { "type": "Gamer", "multiplier": 2.0 }
+  ],
+  "resistances": [],
+
+  "retreatCost": [
+    { "type": "Colorless", "amount": 2 }
+  ],
+
+  "attacks": [
+    {
+      "name": "Locura",
+      "cost": [
+        { "type": "Showman", "amount": 1 },
+        { "type": "Colorless", "amount": 1 }
+      ],
+      "damage": 30,
+      "effect": "Cuando se usa este ataque, descarta una energía aleatoria del Héroe rival en el puesto activo."
+    }
+  ],
+
+  "abilities": []
+}
