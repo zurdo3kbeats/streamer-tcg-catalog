@@ -1,7 +1,0 @@
-{
-  "id": "BASE",
-  "name": "Base",
-  "version": "1.0.0",
-  "cards": ["crt_001", "eng_001", "trn_001"],
-  "sha256": ""
-}
