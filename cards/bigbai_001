@@ -25,7 +25,6 @@
       "name": "Casteo",
       "cost": [ { "type": "Showman", "amount": 1 } ],
       "damage": 20,
-      "text": "Hace 20 de daño al Pokémon objetivo."
     }
   ],
 
