@@ -1,0 +1,33 @@
+{
+  "id": "counterman_009",
+  "setId": "base_01",
+  "name": "CounterMan",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/counterman_009.png",
+
+  "supertype": "Player",
+  "type": "Gamer",
+
+  "hp": 60,
+  "stage": "Basic",
+  "number": 9,
+
+  "weaknesses": [
+    { "type": "Deportista", "multiplier": 2.0 }
+  ],
+  "resistances": [],
+
+  "retreatCost": [
+    { "type": "Colorless", "amount": 1 }
+  ],
+
+  "attacks": [
+    {
+      "name": "Black Ops",
+      "cost": [ { "type": "Gamer", "amount": 1 } ],
+      "damage": 20
+    }
+  ],
+
+  "abilities": []
+}
