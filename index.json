@@ -2,6 +2,6 @@
   "schemaVersion": "1",
   "updatedAt": "2025-08-17",
   "sets": [
-    { "id": "base_01", "name": "Base" }
+    { "id": "base_01", "name": "Base", "path": "sets/base.json" }
   ]
 }
