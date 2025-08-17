@@ -1,0 +1,34 @@
+{
+  "id": "donp_016",
+  "setId": "base_01",
+  "name": "DonP",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/donp_016.png",
+
+  "supertype": "Player",
+  "type": "Gamer",
+
+  "hp": 50,
+  "stage": "Basic",
+  "number": 16,
+
+  "weaknesses": [
+    { "type": "Deportista", "multiplier": 2.0 }
+  ],
+  "resistances": [],
+
+  "retreatCost": [
+    { "type": "Colorless", "amount": 1 }
+  ],
+
+  "attacks": [
+    {
+      "name": "Sorpresa",
+      "cost": [ { "type": "Gamer", "amount": 1 } ],
+      "damage": 20,
+      "effect": "Saca una carta: si es roja, el Héroe enemigo no puede atacar en su próximo turno."
+    }
+  ],
+
+  "abilities": []
+}
