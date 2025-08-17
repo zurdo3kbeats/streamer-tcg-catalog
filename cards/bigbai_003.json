@@ -1,0 +1,38 @@
+{
+  "id": "bigbai_003",
+  "setId": "base_01",
+  "name": "BigBai",
+  "rarity": "SP",
+  "imageUrl": "/media/cards/bigbai_003.png",
+
+  "supertype": "Player",
+  "type": "Showman",
+
+  "hp": 160,
+  "stage": "Stage 2",
+  "evolvesFrom": "bigbai_002",
+  "number": 3,
+
+  "weaknesses": [
+    { "type": "Gamer", "multiplier": 2.0 }
+  ],
+  "resistances": [],
+
+  "retreatCost": [
+    { "type": "Colorless", "amount": 3 }
+  ],
+
+  "attacks": [
+    {
+      "name": "Evento Extra",
+      "cost": [
+        { "type": "Showman", "amount": 2 },
+        { "type": "Colorless", "amount": 2 }
+      ],
+      "damage": 120,
+      "effect": "Este ataque también hace 30 de daño a 1 carta en la banca del equipo rival."
+    }
+  ],
+
+  "abilities": []
+}
