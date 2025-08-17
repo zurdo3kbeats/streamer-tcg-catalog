@@ -2,7 +2,7 @@
   "id": "counterman_011",
   "setId": "base_01",
   "name": "CounterMan",
-  "rarity": "Common",
+  "rarity": "SP",
   "imageUrl": "/media/cards/counterman_011.png",
 
   "supertype": "Player",
