@@ -2,7 +2,7 @@
   "id": "parcero_051",
   "setId": "base_01",
   "name": "Parcero",
-  "rarity": "SP",
+  "rarity": "SP_Diamond",
   "imageUrl": "/media/cards/parcero_051.png",
 
   "supertype": "Player",
