@@ -1,9 +1,9 @@
 {
-  "id": "bigbai_051",
+  "id": "bigbai_052",
   "setId": "base_01",
   "name": "BigBai",
   "rarity": "SP_Ruby",
-  "imageUrl": "/media/cards/bigbai_051.png",
+  "imageUrl": "/media/cards/bigbai_052.png",
 
   "supertype": "Player",
   "type": "Showman",
@@ -11,7 +11,7 @@
   "hp": 160,
   "stage": "Stage 2",
   "evolvesFrom": "bigbai_002",
-  "number": 51,
+  "number": 52,
 
   "weaknesses": [
     { "type": "Gamer", "multiplier": 2.0 }
