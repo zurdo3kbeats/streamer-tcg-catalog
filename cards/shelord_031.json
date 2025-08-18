@@ -1,0 +1,39 @@
+{
+  "id": "shelord_031",
+  "setId": "base_01",
+  "name": "Shelord",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/shelord_031.png",
+
+  "supertype": "Player",
+  "type": "Multiple",
+
+  "hp": 100,
+  "stage": "Basic",
+  "number": 31,
+
+  "weaknesses": [],
+  "resistances": [],
+
+  "retreatCost": [
+    { "type": "Colorless", "amount": 1 }
+  ],
+
+  "attacks": [
+    {
+      "name": "Dislocar",
+      "cost": [
+        { "type": "Colorless", "amount": 3 }
+      ],
+      "damage": 70,
+      "effect": "Este ataque también hace 20 puntos de daño a Shelord."
+    }
+  ],
+
+  "abilities": [
+    {
+      "name": "Abandono",
+      "effect": "Si esta carta tiene 20 puntos de vida o menos, puedes devolverla a tu mano sin energías unidas y con toda su vida recuperada."
+    }
+  ]
+}
