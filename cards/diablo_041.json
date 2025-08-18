@@ -1,0 +1,17 @@
+{
+  "id": "diablo_041",
+  "setId": "base_01",
+  "name": "Diablo",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/diablo_041.png",
+
+  "supertype": "Ayudante",
+  "type": "Ayudante",
+
+  "number": 41,
+
+  "rules": [
+    "Solo puedes jugar 1 carta de Ayudante por turno."
+  ],
+  "effect": "Cuando uses esta carta, durante ese turno tu ataque hace +10 puntos de daño."
+}
