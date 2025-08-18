@@ -1,0 +1,17 @@
+{
+  "id": "intercambio_044",
+  "setId": "base_01",
+  "name": "Intercambio",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/intercambio_044.png",
+
+  "supertype": "Item",
+  "type": "Item",
+
+  "number": 44,
+
+  "rules": [
+    "Puedes usar cualquier número de cartas de Objeto (Item) por turno."
+  ],
+  "effect": "Cuando uses esta carta, durante ese turno cambia un Héroe de tu mano por otro de tu baraja."
+}
