@@ -1,0 +1,17 @@
+{
+  "id": "destino_040",
+  "setId": "base_01",
+  "name": "Destino",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/destino_040.png",
+
+  "supertype": "Ayudante",
+  "type": "Ayudante",
+
+  "number": 40,
+
+  "rules": [
+    "Solo puedes jugar 1 carta de Ayudante por turno."
+  ],
+  "effect": "Cuando uses esta carta, durante ese turno si tu Héroe en el puesto Activo muere, el Héroe enemigo en el puesto Activo también muere."
+}
