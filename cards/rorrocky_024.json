@@ -1,0 +1,33 @@
+{
+  "id": "rorrocky_024",
+  "setId": "base_01",
+  "name": "Rorrocky",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/rorrocky_024.png",
+
+  "supertype": "Player",
+  "type": "Trendy",
+
+  "hp": 60,
+  "stage": "Basic",
+  "number": 24,
+
+  "weaknesses": [
+    { "type": "Showman", "multiplier": 2.0 }
+  ],
+  "resistances": [],
+
+  "retreatCost": [
+    { "type": "Colorless", "amount": 1 }
+  ],
+
+  "attacks": [
+    {
+      "name": "Sartenazo",
+      "cost": [ { "type": "Trendy", "amount": 1 } ],
+      "damage": 20
+    }
+  ],
+
+  "abilities": []
+}
