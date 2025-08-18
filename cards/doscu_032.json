@@ -32,4 +32,8 @@
         { "type": "Colorless", "amount": 4 }
       ],
       "damage": 140,
-      "effect": "Después de
+      "effect": "Después de usar este ataque, descarta 3 energías unidas a este héroe."
+    }
+  ]
+}
+
