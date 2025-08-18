@@ -1,0 +1,17 @@
+{
+  "id": "paolo_038",
+  "setId": "base_01",
+  "name": "Paolo",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/paolo_038.png",
+
+  "supertype": "Ayudante",
+  "type": "Ayudante",
+
+  "number": 38,
+
+  "rules": [
+    "Solo puedes jugar 1 carta de Ayudante por turno."
+  ],
+  "effect": "Cuando uses esta carta, durante ese turno Rorrocky Evolución 1 hace 20 puntos de daño extra."
+}
