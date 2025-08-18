@@ -1,0 +1,38 @@
+{
+  "id": "percha_034",
+  "setId": "base_01",
+  "name": "Percha",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/percha_034.png",
+
+  "supertype": "Player",
+  "type": "Multiple",
+
+  "hp": 80,
+  "stage": "Basic",
+  "number": 34,
+
+  "weaknesses": [],
+  "resistances": [],
+
+  "retreatCost": [
+    { "type": "Colorless", "amount": 1 }
+  ],
+
+  "attacks": [
+    {
+      "name": "Pico de Diamante",
+      "cost": [
+        { "type": "Colorless", "amount": 3 }
+      ],
+      "damage": 50
+    }
+  ],
+
+  "abilities": [
+    {
+      "name": "Armadura",
+      "effect": "Cualquier ataque que reciba Percha hace 20 puntos de daño menos."
+    }
+  ]
+}
