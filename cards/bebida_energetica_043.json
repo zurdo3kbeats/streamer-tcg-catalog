@@ -1,0 +1,17 @@
+{
+  "id": "bebida_energetica_043",
+  "setId": "base_01",
+  "name": "Bebida Energética",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/bebida_energetica_043.png",
+
+  "supertype": "Item",
+  "type": "Item",
+
+  "number": 43,
+
+  "rules": [
+    "Puedes usar cualquier número de cartas de Objeto (Item) por turno."
+  ],
+  "effect": "Cuando uses esta carta, durante ese turno cura 20 puntos de vida a uno de tus Héroes."
+}
