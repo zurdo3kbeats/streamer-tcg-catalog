@@ -1,0 +1,39 @@
+{
+  "id": "alanator_023",
+  "setId": "base_01",
+  "name": "Alanator",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/alanator_023.png",
+
+  "supertype": "Player",
+  "type": "Deportista",
+
+  "hp": 90,
+  "stage": "Basic",
+  "number": 23,
+
+  "weaknesses": [
+    { "type": "Trendy", "multiplier": 2.0 }
+  ],
+  "resistances": [],
+
+  "retreatCost": [
+    { "type": "Colorless", "amount": 2 }
+  ],
+
+  "attacks": [
+    {
+      "name": "Preparación",
+      "cost": [ { "type": "Deportista", "amount": 1 } ],
+      "damage": 0,
+      "effect": "Une 1 energía de tu mazo a este Héroe después de usar este ataque."
+    },
+    {
+      "name": "Puño Wey",
+      "cost": [ { "type": "Deportista", "amount": 3 } ],
+      "damage": 60
+    }
+  ],
+
+  "abilities": []
+}
