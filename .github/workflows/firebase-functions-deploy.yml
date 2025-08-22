@@ -1,0 +1,39 @@
+name: Deploy Firebase Functions
+
+on:
+  push:
+    branches: [ main ]        # cambia si usas otra rama
+    paths:
+      - "functions/**"        # solo corre si cambian archivos en functions
+      - ".github/workflows/firebase-functions-deploy.yml"
+      - "firebase.json"
+      - ".firebaserc"
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # Autenticación en Google Cloud con tu Service Account
+      - name: Auth to Google Cloud
+        uses: google-github-actions/auth@v2
+        with:
+          credentials_json: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+
+      - name: Install Firebase CLI
+        run: npm install -g firebase-tools
+
+      - name: Build Functions
+        run: |
+          cd functions
+          npm ci
+          npm run build
+
+      - name: Deploy claimDailyLogin
+        run: firebase deploy --only functions:claimDailyLogin --project ${{ secrets.PROJECT_ID }}
