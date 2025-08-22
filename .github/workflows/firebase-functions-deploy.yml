@@ -2,9 +2,9 @@ name: Deploy Firebase Functions
 
 on:
   push:
-    branches: [ main ]        # cambia si usas otra rama
+    branches: [ main ]
     paths:
-      - "functions/**"        # solo corre si cambian archivos en functions
+      - "functions/**"
       - ".github/workflows/firebase-functions-deploy.yml"
       - "firebase.json"
       - ".firebaserc"
@@ -20,7 +20,6 @@ jobs:
         with:
           node-version: "20"
 
-      # Autenticación en Google Cloud con tu Service Account
       - name: Auth to Google Cloud
         uses: google-github-actions/auth@v2
         with:
@@ -37,3 +36,4 @@ jobs:
 
       - name: Deploy claimDailyLogin
         run: firebase deploy --only functions:claimDailyLogin --project ${{ secrets.PROJECT_ID }}
+
