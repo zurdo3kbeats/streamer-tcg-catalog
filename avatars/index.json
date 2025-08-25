@@ -1,0 +1,15 @@
+{
+  "avatars": [
+    { "id": "avatar_001", "name": "avatar_001", "imageUrl": "/media/avatars/avatar_001.png" },
+    { "id": "avatar_002", "name": "avatar_002", "imageUrl": "/media/avatars/avatar_002.png" },
+    { "id": "avatar_003", "name": "avatar_003", "imageUrl": "/media/avatars/avatar_003.png" },
+    { "id": "avatar_004", "name": "avatar_004", "imageUrl": "/media/avatars/avatar_004.png" },
+    { "id": "avatar_005", "name": "avatar_005", "imageUrl": "/media/avatars/avatar_005.png" },
+    { "id": "avatar_006", "name": "avatar_006", "imageUrl": "/media/avatars/avatar_006.png" },
+    { "id": "avatar_007", "name": "avatar_007", "imageUrl": "/media/avatars/avatar_007.png" },
+    { "id": "avatar_008", "name": "avatar_008", "imageUrl": "/media/avatars/avatar_008.png" },
+    { "id": "avatar_009", "name": "avatar_009", "imageUrl": "/media/avatars/avatar_009.png" },
+    { "id": "avatar_010", "name": "avatar_010", "imageUrl": "/media/avatars/avatar_010.png" },
+    { "id": "avatar_011", "name": "avatar_011", "imageUrl": "/media/avatars/avatar_011.png" }
+  ]
+}
