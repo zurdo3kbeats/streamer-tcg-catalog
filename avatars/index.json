@@ -1,4 +1,5 @@
-{
+{  "schemaVersion": "1.0",
+  "updatedAt": "2025-08-01",
   "avatars": [
     { "id": "avatar_001", "name": "avatar_001", "imageUrl": "/media/avatars/avatar_001.png" },
     { "id": "avatar_002", "name": "avatar_002", "imageUrl": "/media/avatars/avatar_002.png" },
