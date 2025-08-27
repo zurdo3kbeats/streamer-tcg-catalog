@@ -1,0 +1,38 @@
+{
+  "id": "invictus_057",
+  "setId": "base_01",
+  "name": "Invictus",
+  "rarity": "Especial",
+  "imageUrl": "/media/cards/invictus_057.png",
+
+  "supertype": "Player",
+  "type": "Deportista",
+
+  "hp": 70,
+  "stage": "Basic",
+  "number": 57,
+
+  "weaknesses": [
+    { "type": "Trendy", "multiplier": 2.0 }
+  ],
+  "resistances": [],
+
+  "retreatCost": [
+    { "type": "Colorless", "amount": 1 }
+  ],
+
+  "attacks": [
+    {
+      "name": "Shoot",
+      "cost": [ { "type": "Deportista", "amount": 2 } ],
+      "damage": 40
+    }
+  ],
+
+  "abilities": [],
+
+  "obtain": {
+    "chestDrop": false,
+    "requirement": "Recompensa al reunir 10 cartas repetidas de invictus_017"
+  }
+}
