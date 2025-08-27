@@ -1,0 +1,37 @@
+{
+  "id": "bigbai_055",
+  "setId": "base_01",
+  "name": "BigBai",
+  "rarity": "Especial",
+  "imageUrl": "/media/cards/bigbai_055.png",
+
+  "supertype": "Player",
+  "type": "Showman",
+
+  "hp": 60,
+  "stage": "Basic",
+
+  "weaknesses": [
+    { "type": "Gamer", "multiplier": 2.0 }
+  ],
+  "resistances": [],
+
+  "retreatCost": [
+    { "type": "Colorless", "amount": 1 }
+  ],
+
+  "attacks": [
+    {
+      "name": "Casteo",
+      "cost": [ { "type": "Showman", "amount": 1 } ],
+      "damage": 20
+    }
+  ],
+
+  "abilities": [],
+
+  "obtain": {
+    "chestDrop": false,
+    "requirement": "Recompensa al reunir 5 cartas repetidas de bigbai_001"
+  }
+}
