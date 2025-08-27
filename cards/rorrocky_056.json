@@ -1,0 +1,38 @@
+{
+  "id": "rorrocky_056",
+  "setId": "base_01",
+  "name": "Rorrocky",
+  "rarity": "Especial",
+  "imageUrl": "/media/cards/rorrocky_056.png",
+
+  "supertype": "Player",
+  "type": "Trendy",
+
+  "hp": 60,
+  "stage": "Basic",
+  "number": 56,
+
+  "weaknesses": [
+    { "type": "Showman", "multiplier": 2.0 }
+  ],
+  "resistances": [],
+
+  "retreatCost": [
+    { "type": "Colorless", "amount": 1 }
+  ],
+
+  "attacks": [
+    {
+      "name": "Sartenazo",
+      "cost": [ { "type": "Trendy", "amount": 1 } ],
+      "damage": 20
+    }
+  ],
+
+  "abilities": [],
+
+  "obtain": {
+    "chestDrop": false,
+    "requirement": "Recompensa al reunir 10 cartas repetidas de rorrocky_024"
+  }
+}
