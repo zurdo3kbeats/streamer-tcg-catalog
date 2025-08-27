@@ -1,0 +1,38 @@
+{
+  "id": "counterman_059",
+  "setId": "base_01",
+  "name": "CounterMan",
+  "rarity": "Especial",
+  "imageUrl": "/media/cards/counterman_059.png",
+
+  "supertype": "Player",
+  "type": "Gamer",
+
+  "hp": 60,
+  "stage": "Basic",
+  "number": 59,
+
+  "weaknesses": [
+    { "type": "Deportista", "multiplier": 2.0 }
+  ],
+  "resistances": [],
+
+  "retreatCost": [
+    { "type": "Colorless", "amount": 1 }
+  ],
+
+  "attacks": [
+    {
+      "name": "Black Ops",
+      "cost": [ { "type": "Gamer", "amount": 1 } ],
+      "damage": 20
+    }
+  ],
+
+  "abilities": [],
+
+  "obtain": {
+    "chestDrop": false,
+    "requirement": "Recompensa al reunir 10 cartas repetidas de counterman_009"
+  }
+}
