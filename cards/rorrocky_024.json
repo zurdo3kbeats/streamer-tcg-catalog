@@ -7,7 +7,7 @@
 
   "supertype": "Player",
   "type": "Trendy",
-  "limitGroup": "rorrockybase_core"
+  "limitGroup": "rorrockybase_core",
 
   "hp": 60,
   "stage": "Basic",
