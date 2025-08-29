@@ -7,7 +7,7 @@
 
   "supertype": "Player",
   "type": "Gamer",
-  "limitGroup": "countermanSP_core"
+  "limitGroup": "countermanSP_core",
 
   "hp": 160,
   "stage": "Stage 2",
