@@ -7,6 +7,7 @@
 
   "supertype": "Player",
   "type": "Gamer",
+  "limitGroup": "countermanbase_core"
 
   "hp": 60,
   "stage": "Basic",
