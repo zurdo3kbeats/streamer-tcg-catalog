@@ -7,7 +7,7 @@
 
   "supertype": "Player",
   "type": "Showman",
-  "limitGroup": "bigbaibase_core"
+  "limitGroup": "bigbaibase_core",
 
   "hp": 60,
   "stage": "Basic",
