@@ -7,7 +7,7 @@
 
   "supertype": "Player",
   "type": "Showman",
-  "limitGroup": "ParceroSP_core"
+  "limitGroup": "ParceroSP_core",
 
   "hp": 140,
   "stage": "Basic",
