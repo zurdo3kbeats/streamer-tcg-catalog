@@ -4,7 +4,7 @@
   "name": "Diablo",
   "rarity": "Common",
   "imageUrl": "/media/cards/diablo_041.png",
-  "limitGroup": "diablo_core"
+  "limitGroup": "diablo_core",
 
   "supertype": "Ayudante",
   "type": "Ayudante",
