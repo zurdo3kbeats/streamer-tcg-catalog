@@ -7,6 +7,7 @@
 
   "supertype": "Player",
   "type": "Deportista",
+  "limitGroup": "invictusbase_core"
 
   "hp": 70,
   "stage": "Basic",
