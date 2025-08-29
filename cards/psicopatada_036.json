@@ -4,7 +4,7 @@
   "name": "Psicopatada",
   "rarity": "Common",
   "imageUrl": "/media/cards/psicopatada_036.png",
-  "limitGroup": "psicopatada_core"
+  "limitGroup": "psicopatada_core",
 
   "supertype": "Ayudante",
   "type": "Ayudante",
