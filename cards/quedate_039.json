@@ -4,6 +4,7 @@
   "name": "Quedate",
   "rarity": "Common",
   "imageUrl": "/media/cards/quedate_039.png",
+  "limitGroup": "quedate_core"
 
   "supertype": "Ayudante",
   "type": "Ayudante",
