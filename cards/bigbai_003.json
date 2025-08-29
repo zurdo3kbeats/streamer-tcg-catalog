@@ -7,7 +7,7 @@
 
   "supertype": "Player",
   "type": "Showman",
-  "limitGroup": "bigbaiSP_core"
+  "limitGroup": "bigbaiSP_core",
 
   "hp": 160,
   "stage": "Stage 2",
