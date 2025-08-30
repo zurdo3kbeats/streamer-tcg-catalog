@@ -1,0 +1,15 @@
+{  
+  "schemaVersion": "1.0",
+  "updatedAt": "2025-08-30",
+  "frames": [
+    { "id": "frame_001", "name": "frame_001", "imageUrl": "/media/frame/frame_001.png" },
+    { "id": "frame_002", "name": "frame_002", "imageUrl": "/media/frame/frame_002.png" },
+    { "id": "frame_003", "name": "frame_003", "imageUrl": "/media/frame/frame_003.png" },
+    { "id": "frame_004", "name": "frame_004", "imageUrl": "/media/frame/frame_004.png" },
+    { "id": "frame_005", "name": "frame_005", "imageUrl": "/media/frame/frame_005.png" },
+    { "id": "frame_006", "name": "frame_006", "imageUrl": "/media/frame/frame_006.png" },
+    { "id": "frame_007", "name": "frame_007", "imageUrl": "/media/frame/frame_007.png" },
+    { "id": "frame_008", "name": "frame_008", "imageUrl": "/media/frame/frame_008.png" },
+    { "id": "frame_009", "name": "frame_009", "imageUrl": "/media/frame/frame_009.png" }
+  ]
+}
