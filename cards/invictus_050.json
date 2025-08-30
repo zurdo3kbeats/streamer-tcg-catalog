@@ -1,0 +1,43 @@
+{
+  "id": "invictus_050",
+  "setId": "base_01",
+  "name": "Invictus",
+  "rarity": "SP_Diamond",
+  "imageUrl": "/media/cards/invictus_050.png",
+
+  "supertype": "Player",
+  "type": "Deportista",
+  "limitGroup": "invictusSP_core",
+
+  "hp": 140,
+  "stage": "Stage 1",
+  "evolvesFrom": "invictus_017",
+  "number": 18,
+
+  "weaknesses": [
+    { "type": "Trendy", "multiplier": 2.0 }
+  ],
+  "resistances": [],
+
+  "retreatCost": [
+    { "type": "Colorless", "amount": 2 }
+  ],
+
+  "attacks": [
+    {
+      "name": "Puño Infinito",
+      "cost": [
+        { "type": "Deportista", "amount": 1 },
+        { "type": "Colorless", "amount": 1 }
+      ],
+      "damage": 80
+    }
+  ],
+
+  "abilities": [
+    {
+      "name": "Truco",
+      "effect": "Cuando esta carta evoluciona desde Invictus (Básico), roba 2 cartas de tu baraja. Esta habilidad solo puede usarse durante el turno en el que evoluciona."
+    }
+  ]
+}
