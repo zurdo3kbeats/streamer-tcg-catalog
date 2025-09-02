@@ -1,0 +1,36 @@
+{
+  "id": "klan_020",
+  "setId": "base_01",
+  "name": "Klan",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/klan_020.png",
+
+  "supertype": "Player",
+  "type": "planta",
+
+  "hp": 130,
+  "defense": 30,
+  "weakness": "rayo",
+
+  "number": 20,
+  "limitGroup": "klan",
+
+  "attacks": [
+    {
+      "name": "Punchline",
+      "cost": {
+        "planta": 1
+      },
+      "damage": 30,
+      "effect": ""
+    },
+    {
+      "name": "Salten, salten",
+      "cost": {
+        "planta": 3
+      },
+      "damage": 70,
+      "effect": ""
+    }
+  ]
+}
