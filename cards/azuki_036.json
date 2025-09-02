@@ -1,0 +1,36 @@
+{
+  "id": "azuki_036",
+  "setId": "base_01",
+  "name": "Azuki",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/azuki_036.png",
+
+  "supertype": "Player",
+  "type": "incoloro",
+
+  "hp": 110,
+  "defense": 20,
+  "weakness": "",
+
+  "number": 36,
+  "limitGroup": "azuki",
+
+  "attacks": [
+    {
+      "name": "Punchline",
+      "cost": {
+        "any": 1
+      },
+      "damage": 40,
+      "effect": ""
+    },
+    {
+      "name": "Respuesta",
+      "cost": {
+        "any": 2
+      },
+      "damage": 80,
+      "effect": ""
+    }
+  ]
+}
