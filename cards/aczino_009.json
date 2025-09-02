@@ -1,0 +1,36 @@
+{
+  "id": "aczino_009",
+  "setId": "base_01",
+  "name": "Aczino",
+  "rarity": "SP",
+  "imageUrl": "/media/cards/aczino_009.png",
+
+  "supertype": "Player",
+  "type": "viento",
+
+  "hp": 150,
+  "defense": 40,
+  "weakness": "planta",
+
+  "number": 9,
+  "limitGroup": "aczino",
+
+  "attacks": [
+    {
+      "name": "Punchline",
+      "cost": {
+        "viento": 1
+      },
+      "damage": 30,
+      "effect": ""
+    },
+    {
+      "name": "Furia del Diablo",
+      "cost": {
+        "viento": 3
+      },
+      "damage": 130,
+      "effect": ""
+    }
+  ]
+}
