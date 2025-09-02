@@ -4,6 +4,7 @@
   "name": "Chuty",
   "rarity": "SP",
   "imageUrl": "/media/cards/chuty_001.png",
+  "limitGroup": "chuty",
 
   "supertype": "Player",
   "type": "fuego",
