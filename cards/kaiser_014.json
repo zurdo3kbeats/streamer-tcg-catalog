@@ -1,0 +1,36 @@
+{
+  "id": "kaiser_014",
+  "setId": "base_01",
+  "name": "Kaiser",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/kaiser_014.png",
+
+  "supertype": "Player",
+  "type": "viento",
+
+  "hp": 130,
+  "defense": 20,
+  "weakness": "planta",
+
+  "number": 14,
+  "limitGroup": "kaiser",
+
+  "attacks": [
+    {
+      "name": "Punchline",
+      "cost": {
+        "viento": 1
+      },
+      "damage": 40,
+      "effect": ""
+    },
+    {
+      "name": "Bola de energía",
+      "cost": {
+        "viento": 2
+      },
+      "damage": 60,
+      "effect": ""
+    }
+  ]
+}
