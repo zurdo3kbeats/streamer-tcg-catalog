@@ -1,0 +1,36 @@
+{
+  "id": "nekroos_013",
+  "setId": "base_01",
+  "name": "Nekroos",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/nekroos_013.png",
+
+  "supertype": "Player",
+  "type": "viento",
+
+  "hp": 130,
+  "defense": 20,
+  "weakness": "planta",
+
+  "number": 13,
+  "limitGroup": "nekroos",
+
+  "attacks": [
+    {
+      "name": "Punchline",
+      "cost": {
+        "viento": 1
+      },
+      "damage": 30,
+      "effect": ""
+    },
+    {
+      "name": "Desenmascarar",
+      "cost": {
+        "viento": 2
+      },
+      "damage": 70,
+      "effect": ""
+    }
+  ]
+}
