@@ -4,6 +4,7 @@
   "name": "Gazir",
   "rarity": "SP",
   "imageUrl": "/media/cards/gazir_002.png",
+  "limitGroup": "gazir",
 
   "supertype": "Player",
   "type": "fuego",
