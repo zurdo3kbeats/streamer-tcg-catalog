@@ -1,0 +1,36 @@
+{
+  "id": "rapder_011",
+  "setId": "base_01",
+  "name": "Rapder",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/rapder_011.png",
+
+  "supertype": "Player",
+  "type": "viento",
+
+  "hp": 120,
+  "defense": 20,
+  "weakness": "planta",
+
+  "number": 11,
+  "limitGroup": "rapder",
+
+  "attacks": [
+    {
+      "name": "Punchline",
+      "cost": {
+        "viento": 1
+      },
+      "damage": 30,
+      "effect": ""
+    },
+    {
+      "name": "Flow",
+      "cost": {
+        "viento": 2
+      },
+      "damage": 80,
+      "effect": ""
+    }
+  ]
+}
