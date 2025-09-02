@@ -1,0 +1,36 @@
+{
+  "id": "jonnyb_029",
+  "setId": "base_01",
+  "name": "Jonny B",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/jonnyb_029.png",
+
+  "supertype": "Player",
+  "type": "rayo",
+
+  "hp": 170,
+  "defense": 60,
+  "weakness": "fuego",
+
+  "number": 29,
+  "limitGroup": "jonnyb",
+
+  "attacks": [
+    {
+      "name": "Punchline",
+      "cost": {
+        "rayo": 1
+      },
+      "damage": 30,
+      "effect": ""
+    },
+    {
+      "name": "Eyou",
+      "cost": {
+        "rayo": 2
+      },
+      "damage": 0,
+      "effect": "Cura 30 HP a uno de tus héroes."
+    }
+  ]
+}
