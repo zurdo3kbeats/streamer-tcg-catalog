@@ -1,0 +1,36 @@
+{
+  "id": "vijay_024",
+  "setId": "base_01",
+  "name": "Vijay",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/vijay_024.png",
+
+  "supertype": "Player",
+  "type": "planta",
+
+  "hp": 120,
+  "defense": 20,
+  "weakness": "rayo",
+
+  "number": 24,
+  "limitGroup": "vijay",
+
+  "attacks": [
+    {
+      "name": "Punchline",
+      "cost": {
+        "planta": 1
+      },
+      "damage": 30,
+      "effect": ""
+    },
+    {
+      "name": "Doble tempo",
+      "cost": {
+        "planta": 2
+      },
+      "damage": 80,
+      "effect": ""
+    }
+  ]
+}
