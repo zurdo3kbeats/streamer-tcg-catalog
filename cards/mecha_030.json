@@ -1,0 +1,36 @@
+{
+  "id": "mecha_030",
+  "setId": "base_01",
+  "name": "Mecha",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/mecha_030.png",
+
+  "supertype": "Player",
+  "type": "rayo",
+
+  "hp": 120,
+  "defense": 30,
+  "weakness": "fuego",
+
+  "number": 30,
+  "limitGroup": "mecha",
+
+  "attacks": [
+    {
+      "name": "Punchline",
+      "cost": {
+        "rayo": 1
+      },
+      "damage": 30,
+      "effect": ""
+    },
+    {
+      "name": "Dedo de momia",
+      "cost": {
+        "rayo": 3
+      },
+      "damage": 80,
+      "effect": ""
+    }
+  ]
+}
