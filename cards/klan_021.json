@@ -1,0 +1,36 @@
+{
+  "id": "klan_021",
+  "setId": "base_01",
+  "name": "Klan",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/klan_021.png",
+
+  "supertype": "Player",
+  "type": "planta",
+
+  "hp": 130,
+  "defense": 20,
+  "weakness": "rayo",
+
+  "number": 21,
+  "limitGroup": "klan",
+
+  "attacks": [
+    {
+      "name": "Punchline",
+      "cost": {
+        "planta": 1
+      },
+      "damage": 30,
+      "effect": ""
+    },
+    {
+      "name": "Desprecio",
+      "cost": {
+        "planta": 2
+      },
+      "damage": 60,
+      "effect": ""
+    }
+  ]
+}
