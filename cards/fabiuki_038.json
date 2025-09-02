@@ -1,0 +1,36 @@
+{
+  "id": "fabiuki_038",
+  "setId": "base_01",
+  "name": "Fabiuki",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/fabiuki_038.png",
+
+  "supertype": "Player",
+  "type": "incoloro",
+
+  "hp": 120,
+  "defense": 40,
+  "weakness": "",
+
+  "number": 38,
+  "limitGroup": "fabiuki",
+
+  "attacks": [
+    {
+      "name": "Punchline",
+      "cost": {
+        "any": 1
+      },
+      "damage": 30,
+      "effect": ""
+    },
+    {
+      "name": "Mojopicón",
+      "cost": {
+        "any": 2
+      },
+      "damage": 70,
+      "effect": ""
+    }
+  ]
+}
