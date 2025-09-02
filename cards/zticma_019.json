@@ -1,0 +1,36 @@
+{
+  "id": "zticma_019",
+  "setId": "base_01",
+  "name": "Zticma",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/zticma_019.png",
+
+  "supertype": "Player",
+  "type": "planta",
+
+  "hp": 110,
+  "defense": 30,
+  "weakness": "rayo",
+
+  "number": 19,
+  "limitGroup": "zticma",
+
+  "attacks": [
+    {
+      "name": "Punchline",
+      "cost": {
+        "planta": 1
+      },
+      "damage": 40,
+      "effect": ""
+    },
+    {
+      "name": "Respuesta",
+      "cost": {
+        "planta": 3
+      },
+      "damage": 80,
+      "effect": ""
+    }
+  ]
+}
