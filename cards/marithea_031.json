@@ -1,0 +1,36 @@
+{
+  "id": "marithea_031",
+  "setId": "base_01",
+  "name": "Marithea",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/marithea_031.png",
+
+  "supertype": "Player",
+  "type": "rayo",
+
+  "hp": 120,
+  "defense": 20,
+  "weakness": "fuego",
+
+  "number": 31,
+  "limitGroup": "marithea",
+
+  "attacks": [
+    {
+      "name": "Punchline",
+      "cost": {
+        "rayo": 1
+      },
+      "damage": 30,
+      "effect": ""
+    },
+    {
+      "name": "Carisma",
+      "cost": {
+        "rayo": 2
+      },
+      "damage": 70,
+      "effect": ""
+    }
+  ]
+}
