@@ -1,0 +1,36 @@
+{
+  "id": "loboestepario_006",
+  "setId": "base_01",
+  "name": "Lobo Estepario",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/loboestepario_006.png",
+
+  "supertype": "Player",
+  "type": "fuego",
+
+  "hp": 110,
+  "defense": 30,
+  "weakness": "viento",
+
+  "number": 6,
+  "limitGroup": "loboestepario",
+
+  "attacks": [
+    {
+      "name": "Intimidar",
+      "cost": {
+        "fuego": 1
+      },
+      "damage": 40,
+      "effect": ""
+    },
+    {
+      "name": "Barras",
+      "cost": {
+        "fuego": 3
+      },
+      "damage": 80,
+      "effect": ""
+    }
+  ]
+}
