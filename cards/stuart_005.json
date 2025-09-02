@@ -1,0 +1,36 @@
+{
+  "id": "stuart_005",
+  "setId": "base_01",
+  "name": "Stuart",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/stuart_005.png",
+
+  "supertype": "Player",
+  "type": "fuego",
+
+  "hp": 170,
+  "defense": 50,
+  "weakness": "viento",
+
+  "number": 5,
+  "limitGroup": "stuart",
+
+  "attacks": [
+    {
+      "name": "Flow",
+      "cost": {
+        "fuego": 1
+      },
+      "damage": 30,
+      "effect": ""
+    },
+    {
+      "name": "Coherencia",
+      "cost": {
+        "fuego": 2
+      },
+      "damage": 0,
+      "effect": "Cura 30 HP a un héroe aliado."
+    }
+  ]
+}
