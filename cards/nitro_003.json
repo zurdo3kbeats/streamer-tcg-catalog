@@ -1,0 +1,36 @@
+{
+  "id": "nitro_003",
+  "setId": "base_01",
+  "name": "Nitro",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/nitro_003.png",
+
+  "supertype": "Player",
+  "type": "fuego",
+
+  "hp": 130,
+  "defense": 30,
+  "weakness": "viento",
+
+  "number": 3,
+  "limitGroup": "nitro",
+
+  "attacks": [
+    {
+      "name": "Doble Tempo",
+      "cost": {
+        "fuego": 1
+      },
+      "damage": 30,
+      "effect": ""
+    },
+    {
+      "name": "Punchline",
+      "cost": {
+        "fuego": 2
+      },
+      "damage": 70,
+      "effect": ""
+    }
+  ]
+}
