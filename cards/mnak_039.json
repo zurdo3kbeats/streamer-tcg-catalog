@@ -1,0 +1,36 @@
+{
+  "id": "mnak_039",
+  "setId": "base_01",
+  "name": "Mnak",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/mnak_039.png",
+
+  "supertype": "Player",
+  "type": "incoloro",
+
+  "hp": 110,
+  "defense": 20,
+  "weakness": "",
+
+  "number": 39,
+  "limitGroup": "mnak",
+
+  "attacks": [
+    {
+      "name": "Punchline",
+      "cost": {
+        "any": 1
+      },
+      "damage": 20,
+      "effect": ""
+    },
+    {
+      "name": "Flow",
+      "cost": {
+        "any": 2
+      },
+      "damage": 80,
+      "effect": ""
+    }
+  ]
+}
