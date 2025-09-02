@@ -1,9 +1,9 @@
 {
-  "id": "klan_021",
+  "id": "mrego_021",
   "setId": "base_01",
-  "name": "Klan",
+  "name": "Mrego",
   "rarity": "Common",
-  "imageUrl": "/media/cards/klan_021.png",
+  "imageUrl": "/media/cards/mrego_021.png",
 
   "supertype": "Player",
   "type": "planta",
@@ -13,7 +13,7 @@
   "weakness": "rayo",
 
   "number": 21,
-  "limitGroup": "klan",
+  "limitGroup": "mrego",
 
   "attacks": [
     {
