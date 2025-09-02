@@ -10,7 +10,7 @@
 
   "hp": 150,
   "defense": 40,
-  "weakness": null,
+  "weakness": "",
 
   "number": 33,
   "limitGroup": "papo",
