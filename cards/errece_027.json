@@ -1,0 +1,36 @@
+{
+  "id": "errece_027",
+  "setId": "base_01",
+  "name": "Errece",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/errece_027.png",
+
+  "supertype": "Player",
+  "type": "rayo",
+
+  "hp": 120,
+  "defense": 20,
+  "weakness": "fuego",
+
+  "number": 27,
+  "limitGroup": "errece",
+
+  "attacks": [
+    {
+      "name": "Punchline",
+      "cost": {
+        "rayo": 1
+      },
+      "damage": 30,
+      "effect": ""
+    },
+    {
+      "name": "Doble tempo",
+      "cost": {
+        "rayo": 2
+      },
+      "damage": 80,
+      "effect": ""
+    }
+  ]
+}
