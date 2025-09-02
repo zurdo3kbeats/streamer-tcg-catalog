@@ -1,0 +1,36 @@
+{
+  "id": "acertijo_028",
+  "setId": "base_01",
+  "name": "Acertijo",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/acertijo_028.png",
+
+  "supertype": "Player",
+  "type": "rayo",
+
+  "hp": 120,
+  "defense": 30,
+  "weakness": "fuego",
+
+  "number": 28,
+  "limitGroup": "acertijo",
+
+  "attacks": [
+    {
+      "name": "Punchline",
+      "cost": {
+        "rayo": 1
+      },
+      "damage": 30,
+      "effect": ""
+    },
+    {
+      "name": "Doble tempo",
+      "cost": {
+        "rayo": 2
+      },
+      "damage": 60,
+      "effect": ""
+    }
+  ]
+}
