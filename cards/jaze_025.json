@@ -1,0 +1,36 @@
+{
+  "id": "jaze_025",
+  "setId": "base_01",
+  "name": "Jaze",
+  "rarity": "SP",
+  "imageUrl": "/media/cards/jaze_025.png",
+
+  "supertype": "Player",
+  "type": "rayo",
+
+  "hp": 160,
+  "defense": 40,
+  "weakness": "fuego",
+
+  "number": 25,
+  "limitGroup": "jaze",
+
+  "attacks": [
+    {
+      "name": "Estructura",
+      "cost": {
+        "rayo": 1
+      },
+      "damage": 30,
+      "effect": ""
+    },
+    {
+      "name": "Flow",
+      "cost": {
+        "rayo": 3
+      },
+      "damage": 120,
+      "effect": ""
+    }
+  ]
+}
