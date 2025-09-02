@@ -10,7 +10,7 @@
 
   "hp": 140,
   "defense": 30,
-  "weakness": null,
+  "weakness": "",
 
   "number": 35,
   "limitGroup": "navas",
