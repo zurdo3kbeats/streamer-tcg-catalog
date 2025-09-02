@@ -1,0 +1,36 @@
+{
+  "id": "navas_035",
+  "setId": "base_01",
+  "name": "Navas",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/navas_035.png",
+
+  "supertype": "Player",
+  "type": "incoloro",
+
+  "hp": 140,
+  "defense": 30,
+  "weakness": null,
+
+  "number": 35,
+  "limitGroup": "navas",
+
+  "attacks": [
+    {
+      "name": "Grito",
+      "cost": {
+        "any": 1
+      },
+      "damage": 30,
+      "effect": ""
+    },
+    {
+      "name": "Disonante",
+      "cost": {
+        "any": 2
+      },
+      "damage": 60,
+      "effect": ""
+    }
+  ]
+}
