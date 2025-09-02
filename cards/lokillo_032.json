@@ -1,0 +1,36 @@
+{
+  "id": "lokillo_032",
+  "setId": "base_01",
+  "name": "Lokillo",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/lokillo_032.png",
+
+  "supertype": "Player",
+  "type": "rayo",
+
+  "hp": 130,
+  "defense": 20,
+  "weakness": "fuego",
+
+  "number": 32,
+  "limitGroup": "lokillo",
+
+  "attacks": [
+    {
+      "name": "Punchline",
+      "cost": {
+        "rayo": 1
+      },
+      "damage": 30,
+      "effect": ""
+    },
+    {
+      "name": "Carisma",
+      "cost": {
+        "rayo": 2
+      },
+      "damage": 60,
+      "effect": ""
+    }
+  ]
+}
