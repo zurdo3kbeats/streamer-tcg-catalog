@@ -1,0 +1,36 @@
+{
+  "id": "mks_015",
+  "setId": "base_01",
+  "name": "MKS",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/mks_015.png",
+
+  "supertype": "Player",
+  "type": "viento",
+
+  "hp": 110,
+  "defense": 30,
+  "weakness": "planta",
+
+  "number": 15,
+  "limitGroup": "mks",
+
+  "attacks": [
+    {
+      "name": "Punchline",
+      "cost": {
+        "viento": 1
+      },
+      "damage": 40,
+      "effect": ""
+    },
+    {
+      "name": "Basura",
+      "cost": {
+        "viento": 3
+      },
+      "damage": 80,
+      "effect": ""
+    }
+  ]
+}
