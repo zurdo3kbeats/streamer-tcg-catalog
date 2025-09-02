@@ -10,7 +10,7 @@
 
   "hp": 150,
   "defense": 50,
-  "weakness": null,
+  "weakness": "",
 
   "number": 34,
   "limitGroup": "vallest",
