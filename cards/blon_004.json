@@ -1,0 +1,36 @@
+{
+  "id": "blon_004",
+  "setId": "base_01",
+  "name": "Blon",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/blon_004.png",
+
+  "supertype": "Player",
+  "type": "fuego",
+
+  "hp": 120,
+  "defense": 20,
+  "weakness": "viento",
+
+  "number": 4,
+  "limitGroup": "blon",
+
+  "attacks": [
+    {
+      "name": "Respuesta",
+      "cost": {
+        "fuego": 1
+      },
+      "damage": 30,
+      "effect": ""
+    },
+    {
+      "name": "Poder de la Corona",
+      "cost": {
+        "fuego": 2
+      },
+      "damage": 80,
+      "effect": ""
+    }
+  ]
+}
