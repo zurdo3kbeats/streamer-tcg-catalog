@@ -1,0 +1,36 @@
+{
+  "id": "cacha_023",
+  "setId": "base_01",
+  "name": "Cacha",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/cacha_023.png",
+
+  "supertype": "Player",
+  "type": "planta",
+
+  "hp": 110,
+  "defense": 10,
+  "weakness": "rayo",
+
+  "number": 23,
+  "limitGroup": "cacha",
+
+  "attacks": [
+    {
+      "name": "Punchline",
+      "cost": {
+        "planta": 1
+      },
+      "damage": 30,
+      "effect": ""
+    },
+    {
+      "name": "Doble tempo",
+      "cost": {
+        "planta": 3
+      },
+      "damage": 100,
+      "effect": ""
+    }
+  ]
+}
