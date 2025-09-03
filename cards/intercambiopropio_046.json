@@ -1,0 +1,13 @@
+{
+  "id": "intercambiopropio_046",
+  "setId": "base_01",
+  "name": "Intercambio Propio",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/intercambiopropio_046.png",
+
+  "supertype": "Item",
+
+  "number": 46,
+
+  "effect": "Intercambia uno de tus héroes activos por uno de tu banca."
+}
