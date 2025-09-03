@@ -1,0 +1,13 @@
+{
+  "id": "descartarenergia_047",
+  "setId": "base_01",
+  "name": "Descartar Energía",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/descartarenergia_047.png",
+
+  "supertype": "Item",
+
+  "number": 47,
+
+  "effect": "Descarta una energía de cualquiera de los héroes rivales."
+}
