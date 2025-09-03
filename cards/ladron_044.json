@@ -1,0 +1,13 @@
+{
+  "id": "ladron_044",
+  "setId": "base_01",
+  "name": "Ladrón",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/ladron_044.png",
+
+  "supertype": "Item",
+
+  "number": 44,
+
+  "effect": "Roba 2 cartas de tu baraja."
+}
