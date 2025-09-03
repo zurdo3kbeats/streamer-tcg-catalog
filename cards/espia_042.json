@@ -1,0 +1,13 @@
+{
+  "id": "espia_042",
+  "setId": "base_01",
+  "name": "Espía",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/espia_042.png",
+
+  "supertype": "Item",
+
+  "number": 42,
+
+  "effect": "Puedes ver las cartas de la mano de tu rival en el turno que utilices esta carta."
+}
