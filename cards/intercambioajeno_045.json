@@ -1,0 +1,13 @@
+{
+  "id": "intercambioajeno_045",
+  "setId": "base_01",
+  "name": "Intercambio Ajeno",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/intercambioajeno_045.png",
+
+  "supertype": "Item",
+
+  "number": 45,
+
+  "effect": "Intercambia un héroe activo de tu rival por uno de su banca."
+}
