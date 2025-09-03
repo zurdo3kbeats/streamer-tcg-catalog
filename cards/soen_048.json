@@ -1,0 +1,13 @@
+{
+  "id": "soen_048",
+  "setId": "base_01",
+  "name": "Soen",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/soen_048.png",
+
+  "supertype": "Ayudante",
+
+  "number": 48,
+
+  "effect": "Puedes volver a utilizar un superataque de un héroe que lo haya usado en la ronda anterior."
+}
