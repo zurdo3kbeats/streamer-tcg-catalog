@@ -1,0 +1,13 @@
+{
+  "id": "pocion_043",
+  "setId": "base_01",
+  "name": "Poción",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/pocion_043.png",
+
+  "supertype": "Item",
+
+  "number": 43,
+
+  "effect": "Puedes curar 30 HP a uno de tus héroes en el turno que utilices esta carta."
+}
