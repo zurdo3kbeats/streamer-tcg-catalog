@@ -1,0 +1,13 @@
+{
+  "id": "pistoladeenergia_041",
+  "setId": "base_01",
+  "name": "Pistola de Energía",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/pistoladeenergia_041.png",
+
+  "supertype": "Item",
+
+  "number": 41,
+
+  "effect": "Añade una energía extra a cada uno de tus héroes cuando utilices esta carta."
+}
