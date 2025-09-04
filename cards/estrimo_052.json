@@ -6,6 +6,7 @@
   "imageUrl": "/media/cards/estrimo_052.png",
 
   "supertype": "Ayudante",
+  "limitGroup": "estrimo",
 
   "number": 52,
 
