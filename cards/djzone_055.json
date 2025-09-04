@@ -1,0 +1,13 @@
+{
+  "id": "djzone_055",
+  "setId": "base_01",
+  "name": "DJ Zone",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/djzone_055.png",
+
+  "supertype": "Ayudante",
+
+  "number": 55,
+
+  "effect": "Todos los ataques de los héroes de tipo planta hacen 20 puntos de daño más durante el turno en que se utiliza."
+}
