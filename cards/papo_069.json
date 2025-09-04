@@ -1,0 +1,36 @@
+{
+  "id": "papo_069",
+  "setId": "base_01",
+  "name": "Papo",
+  "rarity": "SP_Diamond",
+  "imageUrl": "/media/cards/papo_069.png",
+
+  "supertype": "Player",
+  "type": "incoloro",
+
+  "hp": 150,
+  "defense": 40,
+  "weakness": "",
+
+  "number": 33,
+  "limitGroup": "papo",
+
+  "attacks": [
+    {
+      "name": "Pareja de Ases",
+      "cost": {
+        "any": 1
+      },
+      "damage": 30,
+      "effect": ""
+    },
+    {
+      "name": "Bestia del Hardcore",
+      "cost": {
+        "any": 3
+      },
+      "damage": 130,
+      "effect": ""
+    }
+  ]
+}
