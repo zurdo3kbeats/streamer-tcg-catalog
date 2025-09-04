@@ -6,6 +6,7 @@
   "imageUrl": "/media/cards/djzone_055.png",
 
   "supertype": "Ayudante",
+  "limitGroup": "djzone",
 
   "number": 55,
 
