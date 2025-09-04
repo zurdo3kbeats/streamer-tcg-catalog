@@ -8,6 +8,7 @@
   "supertype": "Ayudante",
 
   "number": 57,
+  "limitGroup": "bekaesh",
 
   "effect": "Todos los héroes de tipo fuego suman 20 puntos a su defensa durante el turno en que se utiliza."
 }
