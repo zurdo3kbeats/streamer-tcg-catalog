@@ -1,0 +1,13 @@
+{
+  "id": "kapo013_049",
+  "setId": "base_01",
+  "name": "Kapo 013",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/kapo013_049.png",
+
+  "supertype": "Ayudante",
+
+  "number": 49,
+
+  "effect": "Puedes volver a defender con un héroe que haya defendido en la ronda anterior."
+}
