@@ -1,0 +1,14 @@
+{
+  "id": "misionero_059",
+  "setId": "base_01",
+  "name": "Misionero",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/misionero_059.png",
+
+  "supertype": "Ayudante",
+  "limitGroup": "misionero",
+
+  "number": 59,
+
+  "effect": "Todos los héroes de tipo planta suman 20 puntos a su defensa durante el turno en que se utiliza."
+}
