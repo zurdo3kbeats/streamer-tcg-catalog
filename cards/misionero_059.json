@@ -6,6 +6,7 @@
   "imageUrl": "/media/cards/misionero_059.png",
 
   "supertype": "Ayudante",
+  "limitGroup": "misionero",
 
   "number": 59,
 
