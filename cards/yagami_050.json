@@ -6,6 +6,7 @@
   "imageUrl": "/media/cards/yagami_050.png",
 
   "supertype": "Ayudante",
+  "limitGroup": "yagami",
 
   "number": 50,
 
