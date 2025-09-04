@@ -1,9 +1,9 @@
 {
-  "id": "misionero_059",
+  "id": "misionero_074",
   "setId": "base_01",
   "name": "Misionero",
-  "rarity": "Common",
-  "imageUrl": "/media/cards/misionero_059.png",
+  "rarity": "Especial",
+  "imageUrl": "/media/cards/misionero_074.png",
 
   "supertype": "Ayudante",
   "limitGroup": "misionero",
