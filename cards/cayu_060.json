@@ -1,0 +1,13 @@
+{
+  "id": "cayu_060",
+  "setId": "base_01",
+  "name": "Cayu",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/cayu_060.png",
+
+  "supertype": "Ayudante",
+
+  "number": 60,
+
+  "effect": "Todos los héroes de tipo rayo suman 20 puntos a su defensa durante el turno en que se utiliza."
+}
