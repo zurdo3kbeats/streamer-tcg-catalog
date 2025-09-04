@@ -1,0 +1,13 @@
+{
+  "id": "djatenea_056",
+  "setId": "base_01",
+  "name": "DJ Atenea",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/djatenea_056.png",
+
+  "supertype": "Ayudante",
+
+  "number": 56,
+
+  "effect": "Todos los ataques de los héroes de tipo rayo hacen 20 puntos de daño más durante el turno en que se utiliza."
+}
