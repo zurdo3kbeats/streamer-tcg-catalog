@@ -1,0 +1,13 @@
+{
+  "id": "serkofu_058",
+  "setId": "base_01",
+  "name": "Serko Fu",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/serkofu_058.png",
+
+  "supertype": "Ayudante",
+
+  "number": 58,
+
+  "effect": "Todos los héroes de tipo viento suman 20 puntos a su defensa durante el turno en que se utiliza."
+}
