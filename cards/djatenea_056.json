@@ -6,6 +6,7 @@
   "imageUrl": "/media/cards/djatenea_056.png",
 
   "supertype": "Ayudante",
+  "limitGroup": "djatenea",
 
   "number": 56,
 
