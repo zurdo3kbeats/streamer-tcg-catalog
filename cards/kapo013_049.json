@@ -6,6 +6,7 @@
   "imageUrl": "/media/cards/kapo013_049.png",
 
   "supertype": "Ayudante",
+  "limitGroup": "kapo013",
 
   "number": 49,
 
