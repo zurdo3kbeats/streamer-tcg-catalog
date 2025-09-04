@@ -6,6 +6,7 @@
   "imageUrl": "/media/cards/serkofu_058.png",
 
   "supertype": "Ayudante",
+  "limitGroup": "serkofu",
 
   "number": 58,
 
