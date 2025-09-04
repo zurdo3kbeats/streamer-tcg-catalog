@@ -6,6 +6,7 @@
   "imageUrl": "/media/cards/soen_048.png",
 
   "supertype": "Ayudante",
+  "limitGroup": "soen",
 
   "number": 48,
 
