@@ -1,0 +1,36 @@
+{
+  "id": "zasko_068",
+  "setId": "base_01",
+  "name": "Zasko",
+  "rarity": "SP_Diamond",
+  "imageUrl": "/media/cards/zasko_068.png",
+
+  "supertype": "Player",
+  "type": "rayo",
+
+  "hp": 160,
+  "defense": 40,
+  "weakness": "fuego",
+
+  "number": 26,
+  "limitGroup": "zasko",
+
+  "attacks": [
+    {
+      "name": "Estructura",
+      "cost": {
+        "rayo": 1
+      },
+      "damage": 40,
+      "effect": ""
+    },
+    {
+      "name": "Multisilábica",
+      "cost": {
+        "rayo": 2
+      },
+      "damage": 90,
+      "effect": ""
+    }
+  ]
+}
