@@ -6,6 +6,7 @@
   "imageUrl": "/media/cards/quesada_051.png",
 
   "supertype": "Ayudante",
+  "limitGroup": "quesada",
 
   "number": 51,
 
