@@ -1,0 +1,13 @@
+{
+  "id": "quesada_051",
+  "setId": "base_01",
+  "name": "Quesada",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/quesada_051.png",
+
+  "supertype": "Ayudante",
+
+  "number": 51,
+
+  "effect": "Selecciona un héroe rival que no pueda usar un superataque en este turno. Si ya lo ha usado, ese héroe no podrá atacar ni defender. Si no lo ha usado, no tendrá efecto."
+}
