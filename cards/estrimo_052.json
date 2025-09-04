@@ -1,0 +1,13 @@
+{
+  "id": "estrimo_052",
+  "setId": "base_01",
+  "name": "Estrimo",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/estrimo_052.png",
+
+  "supertype": "Ayudante",
+
+  "number": 52,
+
+  "effect": "Selecciona un héroe rival que no pueda usar la defensa en este turno. Si ya la ha usado, ese héroe no podrá atacar ni defender. Si no la ha usado, no tendrá efecto."
+}
