@@ -1,0 +1,13 @@
+{
+  "id": "yagami_050",
+  "setId": "base_01",
+  "name": "Yagami",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/yagami_050.png",
+
+  "supertype": "Ayudante",
+
+  "number": 50,
+
+  "effect": "Puedes mover todas las energías de uno de tus héroes a otro."
+}
