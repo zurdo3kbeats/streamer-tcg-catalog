@@ -1,0 +1,13 @@
+{
+  "id": "djverse_053",
+  "setId": "base_01",
+  "name": "DJ Verse",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/djverse_053.png",
+
+  "supertype": "Ayudante",
+
+  "number": 53,
+
+  "effect": "Todos los ataques de los héroes de tipo fuego hacen 20 puntos de daño más durante el turno en que se utiliza."
+}
