@@ -6,6 +6,7 @@
   "imageUrl": "/media/cards/djverse_053.png",
 
   "supertype": "Ayudante",
+  "limitGroup": "djverse",
 
   "number": 53,
 
