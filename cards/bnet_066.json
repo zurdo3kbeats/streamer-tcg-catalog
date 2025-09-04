@@ -1,0 +1,36 @@
+{
+  "id": "bnet_066",
+  "setId": "base_01",
+  "name": "Bnet",
+  "rarity": "SP_Diamond",
+  "imageUrl": "/media/cards/bnet_066.png",
+
+  "supertype": "Player",
+  "type": "planta",
+
+  "hp": 190,
+  "defense": 10,
+  "weakness": "rayo",
+
+  "number": 17,
+  "limitGroup": "bnet",
+
+  "attacks": [
+    {
+      "name": "Estructura",
+      "cost": {
+        "planta": 1
+      },
+      "damage": 30,
+      "effect": ""
+    },
+    {
+      "name": "Gran reserva",
+      "cost": {
+        "planta": 3
+      },
+      "damage": 0,
+      "effect": "Cura 60 HP a uno de tus héroes."
+    }
+  ]
+}
