@@ -1,0 +1,13 @@
+{
+  "id": "djsonicko_054",
+  "setId": "base_01",
+  "name": "DJ Sonicko",
+  "rarity": "Common",
+  "imageUrl": "/media/cards/djsonicko_054.png",
+
+  "supertype": "Ayudante",
+
+  "number": 54,
+
+  "effect": "Todos los ataques de los héroes de tipo viento hacen 20 puntos de daño más durante el turno en que se utiliza."
+}
